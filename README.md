@@ -11,10 +11,7 @@ This Class is the php implentation of "Name That Color Javascript" Color dataset
 
 
 ## Features
-Find the name of a color closer to a given color
-
-## Requirements
-* [PHP] PHP 5+
+""Find the name of a color closer to a given color""
 
 This class can find the name of a color closer to another given color.
 
@@ -22,3 +19,6 @@ It can lookup a list of colors defined in color database file and find which of 
 
 This class can be used for find the color name,
 can calculate similarity between color you given and the nearest color.
+
+## Requirements
+* [PHP] PHP 5+
