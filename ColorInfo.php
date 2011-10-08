@@ -1,5 +1,6 @@
 <?php
     /**
+    * some changes.
      * ColorNamer 1.0
      * Copyright 2011 Tufan Baris YILDIRIM
      *
